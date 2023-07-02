@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivek-thomas
 - 👀 I’m interested in Philosophy, Ideas, Data and Problem Solving
-- 🌱 I’m currently learning Scala :)
+- 🌱 I’m currently learning Scala and DP203:)
 - 💞️ I’m looking to collaborate on Problem Solving and Coding
 - 📫 How to reach me vivekthomas@live.com
 
